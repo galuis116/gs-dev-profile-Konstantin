@@ -2,6 +2,6 @@
 
 My developer profile landing page for promotion
 
-GitHub account is [here](https://github.com/gsecret054).
+The landing page hosted on **Render** Cloud is available [here](https://kostyaromanenko-bio.onrender.com).
 
 &copy; 2022 `@gsecret054` All Rights Reserved.
