@@ -1,0 +1,21 @@
+{
+  "name": "Profile | Konstantin R.",
+  "short_name": "Konstantin R.",
+  "start_url": "index.html",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "avatar.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "avatar.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#60A9F0",
+  "background_color": "#f5f5f5",
+  "display": "standalone"
+}
